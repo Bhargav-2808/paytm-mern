@@ -1,11 +1,11 @@
-
-import './App.css';
+import "./App.css";
+import Paytm from "./Paytm/Paytm";
 
 function App() {
   return (
-   <>
-    <h1> App Running</h1>
-   </>
+    <>
+      <Paytm />
+    </>
   );
 }
 
